@@ -1,0 +1,23 @@
+body
+{
+	background-color: #444444;
+	margin: 50px;
+	font-family: 'Poiret One', cursive;
+}
+
+.container
+{
+		display: grid;
+		grid-template-columns: 200px 200px 200px;
+		grid-gap: 5px;
+		color: #000;
+}
+
+.box
+{
+	background-color: #E6E6EC;
+	border: 1px solid #D79763;
+	border-radius: 5px;
+	padding: 10px;
+	
+}
